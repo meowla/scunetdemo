@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scuos/static/css/main.986db58f.css",
+    "main.js": "/scuos/static/js/main.0bce8dfc.js",
+    "static/js/787.5540ddbe.chunk.js": "/scuos/static/js/787.5540ddbe.chunk.js",
+    "index.html": "/scuos/index.html",
+    "main.986db58f.css.map": "/scuos/static/css/main.986db58f.css.map",
+    "main.0bce8dfc.js.map": "/scuos/static/js/main.0bce8dfc.js.map",
+    "787.5540ddbe.chunk.js.map": "/scuos/static/js/787.5540ddbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.986db58f.css",
+    "static/js/main.0bce8dfc.js"
+  ]
+}
